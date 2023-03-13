@@ -6,8 +6,8 @@
 - **Recursos compartidos**: sistema operativo, servidor, computación distribuida...
 
 ## Conceptos importantes:
-- Concurrencia (*paralelo* VS *serie*)
-- Distribuido (*centralizado* VS *centralizado* VS *distribuido*)
+- Concurrencia (*paralelo* VS *serie*, *condiciones de carrera* VS *atomicidad*)
+- Distribuido (*centralizado* VS *descentralizado* VS *distribuido*)
 - Proceso (*OS process*)
 - Hilo (*Thread*)
 - Sincronización (*sync* / *async*)
